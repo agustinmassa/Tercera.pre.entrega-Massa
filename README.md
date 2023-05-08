@@ -1,7 +1,7 @@
 # Tercera.pre.entrega-Massa
 
 # DOCUMENTACIÓN.
-Para poder encontrar los archivos que nombrare a posterior ingresar  en la carpeta AppCoder.
+Para poder encontrar los archivos que nombrare a posterior ingresar  en la carpeta App1.
 Los archivos son: models.py, forms.py, urls.py, views.py,la carpeta de templates, entre otros.
 
 # Models.py:
